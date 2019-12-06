@@ -1,0 +1,11 @@
+.mensajeExito{
+    background:#9ed251;
+    text-align: center;
+}
+.mensajeExito button{
+    margin: auto;
+}
+
+.paginacionCasos{
+    cursor: pointer;
+}
